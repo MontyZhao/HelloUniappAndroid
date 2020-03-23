@@ -1,0 +1,3 @@
+rootProject.name='HelloUniapp'
+include ':app'
+include ':hello_uniapp_plugin'

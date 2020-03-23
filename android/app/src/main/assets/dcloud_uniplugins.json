@@ -1,0 +1,14 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "name.metaphors.hello_uniapp_plugin.HelloUniappPluginAppHookProxy",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "HelloUniappPlugin",
+          "class": "name.metaphors.hello_uniapp_plugin.HelloUniappPluginWXModule"
+        }
+      ]
+    }
+  ]
+}
